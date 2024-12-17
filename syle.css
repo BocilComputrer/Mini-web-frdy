@@ -1,0 +1,41 @@
+.body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    line-height: 2.0;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-size: 1rem;
+}
+header{
+    box-shadow: 0 17px 17px rgba(0, 0, 0, 0.47);
+    padding: 1rem 0;
+    text-align: center;
+    background-color: rgb(159, 149, 149);
+    color: white;
+}
+main{
+    padding: 40px;
+    background-color: rgb(255, 255, 255);
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 7px;
+    box-shadow: 0 7px 7px rgba(0, 0, 0, 0.1);
+    width: 90%;
+}
+.Gambar{
+    text-align: center;
+    padding: 2rem 0;
+
+}
+footer {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 0 15px 15px rgba(0, 0, 0, 0.47);
+    padding: 2px 0;
+    background-color: rgb(159, 149, 149);
+    color: rgb(255, 255, 255);
+    line-height: 2.0
+}
